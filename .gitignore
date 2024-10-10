@@ -2,6 +2,9 @@
 *
 
 # Allow the src folder and its subfolders
+!app/
+!app/src/
+!app/src/main/
 !app/src/main/java/
 !app/src/main/java/**
 
